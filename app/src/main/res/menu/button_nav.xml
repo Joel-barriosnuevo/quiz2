@@ -2,15 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/fragmento1"
-        android:title="Home"
         android:icon="@drawable/ic_home"
-        />
+        android:title="Ajustes" />
 
     <item
         android:id="@+id/fragmento2"
-        android:title="Buscar"
         android:icon="@drawable/ic_buscar"
-        />
+        android:title="Noticias" />
     <item
         android:id="@+id/fragmento3"
         android:title="Perfil"
